@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * _isupper - Check if a letter is upper
- * @x: The number to be checked
+ * _isupper - check if a letter is upper
+ * @x: the number to be checked
  * Return: 1 for upper letter or 0 for any eles
  */
 
