@@ -6,9 +6,10 @@
  * Return: 1 for upper letter or 0 for any eles
  */
 
-int _isupper(int x)
+_int _isupper(int x)
 
-{	
+{
+
 
 	if (x >= 65 && x >= 90)
 	{
